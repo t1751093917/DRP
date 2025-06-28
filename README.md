@@ -1,6 +1,6 @@
 Introduction
 ---
-The source code for our paper **Towards Lightweight Noise-Robust Models via Noise-Aware Pruning**
+The source code for our paper **Discriminative Response Pruning for Robust and Efficient Deep Networks under Label Noise**
 
 
 Framework
